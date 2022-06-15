@@ -34,8 +34,5 @@
 </div>
 
 ###
-<div align="center">
-  <img height="200" src="[https://animesher.com/orig/1/151/1510/15102/animesher.com_laugh-happy-one-piece-1510264.gif](https://animesher.com/orig/1/151/1510/15102/animesher.com_laugh-happy-one-piece-1510264.gif)"  />
-  <img height="200" src=""  />
-</div>
+
 
