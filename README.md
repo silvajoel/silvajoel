@@ -23,7 +23,11 @@
 <p align="left">😀 I like to play a guitar, code, read, and play with my dog in my free time.</p>
 
 ###
+<div align="right">
+  <img height="200" src="https://c.tenor.com/JWJRjZFUa_cAAAAC/one-piece-anime.gif"  />
+</div>
 
+###
 <p align="left"></p>
 
 ###
@@ -39,12 +43,7 @@
   </a>
 </div>
 
-###
-<div align="right">
-  <img height="200" src="https://c.tenor.com/JWJRjZFUa_cAAAAC/one-piece-anime.gif"  />
-</div>
 
-###
 
 
 
