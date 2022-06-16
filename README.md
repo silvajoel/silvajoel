@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Joel Silva and i'm a python developer, from  Minas Gerais, Brasil.</p>
+<p align="left">My name is Joel Silva and i'm a python developer, from  Minas Gerais, Brazil.</p>
 
 ###
 <h2 align="left">About me</h2>
