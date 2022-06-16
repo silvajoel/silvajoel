@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">😀 I like to play a guitar, code, read, and play with my dog in my free time.</p>
+<p align="left">😀 I like play the guitar, code, read, and play with my dog in my free time.</p>
 
 <div align="center">
   <img height="200" src="https://c.tenor.com/JWJRjZFUa_cAAAAC/one-piece-anime.gif"  />
