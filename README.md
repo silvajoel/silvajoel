@@ -40,7 +40,7 @@
 </div>
 
 ###
-<div align="center">
+<div align="right">
   <img height="200" src="https://c.tenor.com/JWJRjZFUa_cAAAAC/one-piece-anime.gif"  />
 </div>
 
