@@ -1,6 +1,7 @@
 <h1 align="left">Hey 🤟What's up?</h1>
 
 ###
+
 <p align="left">My name is Joel Silva and i'm a python developer, from  Minas Gerais, Brasil.</p>
 
 ###
@@ -22,8 +23,7 @@
 
 <p align="left">😀 I like to play a guitar, code, read, and play with my dog in my free time.</p>
 
-###
-<div align="right">
+<div align="center">
   <img height="200" src="https://c.tenor.com/JWJRjZFUa_cAAAAC/one-piece-anime.gif"  />
 </div>
 
