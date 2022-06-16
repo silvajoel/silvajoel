@@ -7,12 +7,23 @@
 <h2 align="left">About me</h2>
 
 ###
-<p align="left">🔘 ✨ Creating bugs since 2018;</p>
+
+<p align="left">😄 Pronouns: He/Him.</p>
 
 ###
-<p align="left">🔘 📚 I'm studying science of computer in UFSJ;</p>
+
+<p align="left">📚 I'm studying science of computer in UFSJ.</p>
 
 ###
+
+<p align="left">🌱 I’m currently learning HTML, CSS, PHP and Python.</p>
+
+###
+
+<p align="left">😀 I like to play a guitar, code, read, and play with my dog in my free time.</p>
+
+###
+
 <p align="left"></p>
 
 ###
@@ -27,6 +38,13 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
+
+###
+<div align="center">
+  <img height="200" src="https://animesher.com/orig/1/151/1510/15102/animesher.com_laugh-happy-one-piece-1510264.gif"  />
+</div>
+
+###
 
 
 
