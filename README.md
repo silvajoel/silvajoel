@@ -1,45 +1,40 @@
-<h1 align="left">Hey 🤟What's up?</h1>
+<h1 align="left">Joel Silva</h1>
 
-###
+<p align="left">
+Software Developer | M.Sc. Student in Computer Science | UFSJ
+</p>
 
-<p align="left">My name is Joel Silva and i'm a python developer, from  Minas Gerais, Brazil.</p>
+## About
 
-###
-<h2 align="left">About me</h2>
+I hold a Bachelor's degree in Computer Science from the Federal University of São João del-Rei (UFSJ) and will begin my Master's degree in Computer Science at UFSJ.
 
-###
+I currently work as a Software Developer, developing and maintaining enterprise applications, web systems, mobile applications, APIs, and ERP solutions. My professional experience includes software support, system maintenance, process automation, and software engineering.
 
-<p align="left">😄 Pronouns: He/Him.</p>
+My academic and professional interests include:
 
-###
+- Software Engineering
+- Software Architecture
+- Information Systems
+- Mobile Development
+- Artificial Intelligence
+- Databases
+- Computer Networks
 
-<p align="left">📚 I'm studying science of computer in UFSJ.</p>
+I use this GitHub profile to share personal projects, academic work, programming exercises, and open-source contributions while continuously improving my technical and research skills.
 
-###
+## Technologies
 
-<p align="left">🌱 I’m currently learning HTML, CSS, PHP and Python.</p>
+- PHP
+- Python
+- Flutter / Dart
+- JavaScript
+- HTML & CSS
+- SQL
+- Git & GitHub
+- Firebase
+- TOTVS Protheus
 
-###
+## Academic Profiles
 
-<p align="left">😀 I like play the guitar, code, read, and play with my dog in my free time.</p>
-
-###
-<p align="left"></p>
-
-###
-<div align="left">
-  <a href="https://www.linkedin.com/in/joel-silva-3087a1193/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/jorelzu" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="joel#6553" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-</div>
-
-
-
-
-
+- **Lattes:** https://lattes.cnpq.br/9737642T6
+- **LinkedIn:** https://www.linkedin.com/in/joel-silva-3087a1193/
